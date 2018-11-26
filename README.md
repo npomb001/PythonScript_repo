@@ -2,5 +2,5 @@
 This is repository for Python scripts collection.
 
 ## Contents
-1.Bioinformatics
-2.Basic Python
+1. Bioinformatics
+2. Basic Python
