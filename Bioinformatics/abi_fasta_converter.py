@@ -3,7 +3,7 @@
 ###This script is for converting many ab1 files to fasta files
 ###Need full path to directory that contain all ab1 files
 ###Copy this script to that directory and run it in the directory
-###Updated by Nat Pombubpa on November 21, 2018
+###Updated by Nat Pombubpa on November 27, 2018
 
 
 ###Import os for getting list of files in data directory
